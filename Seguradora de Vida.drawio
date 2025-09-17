@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Página-1" id="5CVApHUxT2Qb8BV_8pRm">
+    <mxGraphModel dx="872" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-1" value="Interessado/&lt;div&gt;Cliente&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCjCRPXbyl-o-TLRtF-d-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-3" value="Corretor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCjCRPXbyl-o-TLRtF-d-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-4" value="Coordenador de Vendas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="440" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="240" />
+              <mxPoint x="431" y="240" />
+            </Array>
+            <mxPoint x="655" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-5" value="Assistente Comercial" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hCjCRPXbyl-o-TLRtF-d-6" target="hCjCRPXbyl-o-TLRtF-d-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJBCQb-Vr-bR_ese6J-H-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hCjCRPXbyl-o-TLRtF-d-6" target="hCjCRPXbyl-o-TLRtF-d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-6" value="Sistema de Pedidos" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="75" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-11" value="Acessa o site e consulta os planos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="74" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-12" value="Marca a consulta para o corretor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="70" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-15" value="Informa de uma consulta com um cliente&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="420" y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-18" value="Faz a consulta com o cliente e finaliza o atendimento" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="212" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hCjCRPXbyl-o-TLRtF-d-21" value="Supervisiona o Corretor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="414" y="360" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBxGnF5Bs0CoMvxR5BY-2" value="EXCEÇÕES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5" y="540" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBxGnF5Bs0CoMvxR5BY-3" value="EXCEÇÕES DO CLIENTE:&lt;div&gt;o cliente pode cancelar a consulta antes e depois de fechar o contrato&lt;/div&gt;&lt;div&gt;o cliente pode mudar o plano&lt;/div&gt;&lt;div&gt;o cliente pode não quere mais fazer o seguro de vida&lt;/div&gt;&lt;div&gt;o cliente não tem cadastro&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="5" y="570" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBxGnF5Bs0CoMvxR5BY-4" value="EXCEÇÕES DO ASSISTENTE COMERCIAL:&lt;div&gt;O assistente não consegue acessar o sistema&amp;nbsp;&lt;/div&gt;&lt;div&gt;o assistente não encontra o cadastro do cliente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="455" y="570" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBxGnF5Bs0CoMvxR5BY-5" value="EXCEÇÕES DO CORRETOR:&lt;div&gt;ele pode ter duas consultas no mesmo horário&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="64" y="703" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7WBxGnF5Bs0CoMvxR5BY-6" value="EXCEÇÕES DO COORDENADOR DE VENDAS:&lt;div&gt;coordenador não encontra relatórios das consultas dos corretores&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="410" y="713" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iJBCQb-Vr-bR_ese6J-H-2" value="comentário: ajuste na seta do&amp;nbsp;&lt;br&gt;interessado/cliente com sistema pedido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="13" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
